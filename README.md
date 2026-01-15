@@ -8,21 +8,21 @@ The main goal of this project was to reuse unused electronics from my home and e
 
 Key Features
 
-* 🎙️ Google Assistant–based voice control
+*  Google Assistant–based voice control
 
-* ⏰ 24×7 digital clock & alarm
+*  24×7 digital clock & alarm
 
-* 🔊 Bluetooth speaker (stereo output)
+*  Bluetooth speaker (stereo output)
 
-* 📷 CCTV / monitoring system
+*  CCTV / monitoring system
 
-* ♻️ Built completely using reused e-waste
+*  Built completely using reused e-waste
 
-* 🔌 Designed for 24×7 operation
+*  Designed for 24×7 operation
 
-* ❄️ Active cooling with fan & heat management
+*  Active cooling with fan & heat management
 
-* 🛠️ No coding, no rooting, no custom firmware
+*  No coding, no rooting, no custom firmware
 
 
 Components Used
@@ -56,7 +56,7 @@ Initially, I planned to connect the phone directly using AUX input, but later I 
 To power the system, I used an old dual-port phone adapter — one port dedicated to charging the phone continuously, and the other powering the amplifier and modules.
 
 Problems Faced & Solutions
-🔥 Heating Issue
+ Heating Issue
 
 The amplifier module started heating during long usage.
 Solution:
@@ -68,7 +68,7 @@ Solution:
 * Used a step-up module to boost voltage from 5V to 12V for the fan
 
 
-🔊 Audio Distortion
+ Audio Distortion
 
 Audio distortion occurred due to long wires and voltage drops.
 Solution:
