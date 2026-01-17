@@ -134,19 +134,42 @@ This project really helped me:
 * Build a fully functional smart device without coding
 
 3D model screenshot
-![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/a3b3513bbc0c09ff0a860b7f0fb3bfcbf17c862d/Screenshot%202026-01-16%20013450.png)
 
+# this 3d model is only for refrence desing of project because phone sizes and other component saze may vary
+
+![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/458d89f7fb9cb98d3e00b8e0f29b9695d28ad009/3d%20model%20screenshots/full%20structure.png)
+
+FRONT VIEW
+
+![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/458d89f7fb9cb98d3e00b8e0f29b9695d28ad009/3d%20model%20screenshots/front%20view.png)
+
+BACK VIEW
+
+![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/458d89f7fb9cb98d3e00b8e0f29b9695d28ad009/3d%20model%20screenshots/back%20view.png)
+
+TOP VIEW
+
+![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/b132ec5f6bae46bc5c8c7a6f02b6519e9b1897c7/3d%20model%20screenshots/top%20view.png)
+
+SIDE VIEW
+
+![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/b132ec5f6bae46bc5c8c7a6f02b6519e9b1897c7/3d%20model%20screenshots/side%20view.png)
 Wiring diagram
 ![image alt](https://github.com/Kavyansh-kohar/SMART-DESK-CONSOLE/blob/a3b3513bbc0c09ff0a860b7f0fb3bfcbf17c862d/wiring%20diagram.jpeg)
 
 SORRY I DON'T KNOW HOW TO DESING A PCB SO I MADE A HAND DRAWN DIAGRAM
 
 
-| Component        | Quantity | Price (INR) |
-|------------------|----------|-------------|
-| PAM 8403         | 1        | ₹161        |
-| Step-up Module   | 1        | ₹217        |
-| 12V DC Fan       | 1        | ₹132        |
-| Heat Sink        | 1        | ₹145        |
-| Black Paint      | 1        | ₹185        |
-| Super Glue       | 2        | ₹198        |
+| Component           | Quantity | Description                                          | Price (₹) | Source                     |
+|--------------------|----------|------------------------------------------------------|-----------|----------------------------|
+| PAM8403            | 1        | Audio Amplifier Board                                 | 120.00    | Local market               |
+| Step-up Module     | 1        | XL6009 DC-DC Adjustable Booster Module                | 180.00    | Amazon (online)            |
+| 12V DC Fan         | 1        |  Cooling Fan                                          | 120.00    | Local market               |
+| Heat Sink          | 1        | Aluminum Heat Sink                                    | 150.00    | Amazon (online)            |
+| Black Paint        | 1        | Black spray/paint                                    | 200.00    | Local store                |
+| Super Glue         | 2        | Cyanoacrylate adhesive                                | 150.00    | Local store                |
+| PVC Sheets         | 5        | for making body structure                             | 0.00      | Reused material            |
+| Smartphone         | 1        | main controling unit                                    | 0.00      | Reused e-waste             |
+| Bluetooth Module   | 1        | from old wireless earphones                            | 0.00      | Reused e-waste             |
+| Solder Wire        | 1        |  solder wire                                           | 90.00     | Local market               |
+| **TOTAL**          |          |                                                      | **$11.12**|                            |
